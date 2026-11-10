@@ -2,8 +2,11 @@ project:
   type: book
 
 book:
-  title: "test_thesis"
-  author: "Norah Jones"
+  title: "Detta är titeln"
+  subtitle: "Detta är en undertext"
+  author: 
+    - "Jane Doe"
+    - "John Doe"
   date: "11/10/2026"
   chapters:
     - index.qmd
